@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 244" fill="none">
+  <defs>
+    <pattern id="minor" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0v16" stroke="#9696e3" stroke-opacity=".13"/></pattern>
+    <pattern id="major" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0v80" stroke="#a099ed" stroke-opacity=".25"/></pattern>
+    <pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse"><path d="m0 4 4-4" stroke="#aaa2ff" stroke-opacity=".65"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#393368"/><stop offset="1" stop-color="#1e1b39"/></radialGradient>
+  </defs>
+  <path fill="url(#glow)" d="M0 0h600v244H0z"/><path fill="url(#minor)" d="M0 0h600v244H0z"/><path fill="url(#major)" d="M0 0h600v244H0z"/>
+  <g stroke="#968aef" stroke-width=".8" opacity=".78">
+    <path d="M171 48h263M171 45v15m263-15v15M460 69v119m-14 0h19m-19-119h19M171 203h263m-263-10v14m114-14v14m149-14v14"/>
+    <path d="m168 51 6-6m257 6 6-6m20 27 6-6m-6 125 6-6m-295 21 6-6m108 6 6-6m143 6 6-6"/>
+    <path d="M140 90h322m-322 73h322M194 56v137m214-137v137" stroke-dasharray="3 6" opacity=".52"/>
+  </g>
+  <path d="M172 69h262v119H172zm7 7v105h248V76zm44 0h5v53h-5zm0 83h5v22h-5zm-44-46h44v5h-44zm49 22h57v5h-57zm90 0h109v5H318zm-33-59h5v59h-5zm69 64h5v41h-5z" fill="url(#hatch)" fill-rule="evenodd" stroke="#cbc4ff" stroke-width="1.25"/>
+  <g stroke="#a79afc" stroke-width=".9">
+    <path d="M223 129h-30a30 30 0 0 0 30 30m67-19v29a29 29 0 0 0 29-29M228 93h57m-57 3h57m142 1h7m-7 4h7m-7 48h7m-7 4h7"/>
+    <rect x="237" y="150" width="36" height="22" rx="2"/><rect x="238" y="104" width="34" height="18" rx="2"/>
+    <rect x="303" y="82" width="34" height="39" rx="2"/><path d="M305 93h30m-28-8h10v5h-10zm14 0h10v5h-10zM378 157h35v15h-35z"/>
+    <circle cx="392" cy="103" r="14"/><circle cx="392" cy="103" r="4"/>
+  </g>
+  <g fill="#d4ccff" font-family="monospace" font-size="8" letter-spacing="1"><text x="289" y="41">12 600</text><text x="471" y="134">6 400</text><text x="216" y="215">5 500</text><text x="345" y="215">7 100</text></g>
+  <g stroke="#d9d0ff" opacity=".7"><path d="M74 184v-24m0 24h24m-3-3 3 3-3 3m-24-24 3-3 3 3M523 72v16m-8-8h16"/><circle cx="74" cy="184" r="2"/></g>
+</svg>

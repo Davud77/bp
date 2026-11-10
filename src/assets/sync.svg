@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 244" fill="none">
+  <defs><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0v25" stroke="#5666b9" stroke-opacity=".15"/></pattern></defs>
+  <path fill="#e5ebff" d="M0 0h600v244H0z"/><path fill="url(#grid)" d="M0 0h600v244H0z"/>
+  <path d="M152 62h288v124H152z" stroke="#7485ce" stroke-dasharray="4 6" opacity=".75"/>
+  <g stroke="#596abd" stroke-width="1.5" stroke-linejoin="round">
+    <rect x="178" y="76" width="106" height="88" rx="9" fill="#c6d1fb" transform="rotate(-11 178 76)"/>
+    <rect x="185" y="83" width="106" height="88" rx="9" fill="#f6f8ff"/>
+    <path d="M197 148v-11l20-19 19 15 14-16 29 26v5z" fill="#b2c3ff"/>
+    <circle cx="258" cy="104" r="6" fill="#d4b8f8"/>
+    <rect x="346" y="83" width="71" height="88" rx="9" fill="#c4cffb"/>
+    <rect x="355" y="94" width="23" height="58" rx="4" fill="#eff2ff"/>
+    <rect x="384" y="94" width="23" height="58" rx="4" fill="#eff2ff"/>
+    <path d="M361 141h11m18 0h11m-45 19h17m6 0h3"/>
+    <path d="M299 126h39m-9-7 9 7-9 7" stroke-dasharray="3 3"/>
+  </g>
+  <path d="M152 115v14m-7-7h14m281-7v14m-7-7h14" stroke="#7485ce"/>
+</svg>

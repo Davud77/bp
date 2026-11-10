@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 244" fill="none">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0v20" stroke="#6450dc" stroke-opacity=".13"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#f4efff"/><stop offset="1" stop-color="#e3daff"/></radialGradient>
+  </defs>
+  <path fill="url(#glow)" d="M0 0h600v244H0z"/><path fill="url(#grid)" d="M0 0h600v244H0z"/>
+  <g stroke="#8f79df" stroke-width=".75">
+    <path d="m158 156 152 60 149-62-153-61zM158 156v-39l148-60 153 60v37m-149 62v-39l149-60m-301 0 152 60m-4-120v36" stroke-dasharray="4 5"/>
+    <path d="m147 161 166 67 158-67M147 157v8m166 59v8m158-75v8"/>
+    <path d="M107 92h16m-8-8v16m376 68h16m-8-8v16"/>
+  </g>
+  <g stroke="#6b54bf" stroke-linejoin="round">
+    <path d="m185 151 125 48 111-46-121-49z" fill="#c2aff5" opacity=".47"/>
+    <path d="m203 143 105 43 96-39v-9l-107-43-94 40z" fill="#a58ae9"/>
+    <path d="m203 135 105 43 96-40-107-43z" fill="#f2ebff"/>
+    <path d="m203 135 105 43v8l-105-43z" fill="#cbb8f8"/>
+    <path d="m220 133 80 32 80-33V78l-81-33-79 33z" fill="#b79bf5"/>
+    <path d="m220 78 80 32v55l-80-32z" fill="#e4d6ff"/>
+    <path d="m220 78 80 32 80-32-81-33z" fill="#fbf8ff"/>
+    <path d="m218 78 82 34 82-34-83-34z" fill="#f8f4ff"/>
+    <path d="m237 72 62 25 60-24-61-25z" fill="#eee5ff"/>
+    <path d="M300 112v53m-80-61 80 33 80-33M253 91v55m89-51v53"/>
+    <path d="m229 92 16 7v12l-16-6zm30 12 16 7v12l-16-7zm20 8 14 6v12l-14-6zm30 5 24-10v13l-24 10zm40-16 23-9v12l-23 10zm-120 13 16 7v11l-16-6zm30 13 16 6v12l-16-6zm50 13 24-10v13l-24 10zm40-16 23-9v13l-23 9z" fill="#9f82ed"/>
+    <path d="m246 61 62 25m-45-32 62 25m-39 16 60-24m-81 15 60-24" opacity=".6"/>
+  </g>
+  <path d="m366 60 47-20h39m-48 94 32 13h35M235 111l-58-28h-32" stroke="#9275d3" stroke-dasharray="2 3"/>
+  <g fill="#7156bc" font-family="monospace" font-size="8" letter-spacing=".7"><text x="456" y="43">+6.600</text><text x="474" y="150">±0.000</text></g>
+</svg>
