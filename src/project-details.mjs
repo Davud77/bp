@@ -54,6 +54,7 @@ export const projectDetails = {
   "bp-revit-tools": {
     screenshot: { file: "revit.png", width: 1350, height: 123 },
     guide: "/blob/main/docs/INSTALLATION.md",
+    release: "/releases/latest",
     ru: {
       screenshotCaption: "Вкладка BotPlus RT в Revit",
       features: [
